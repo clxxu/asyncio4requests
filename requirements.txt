@@ -9,4 +9,4 @@ idna==2.10
 requests==2.24.0
 requests-async==0.6.2
 rfc3986==1.4.0
-urllib3==1.25.10
+urllib3==1.26.5
